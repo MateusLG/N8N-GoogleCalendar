@@ -3,9 +3,6 @@
 ## Fluxo 
 Webhook → Processar Tudo → Google Calendar → Responder Webhook
 
-
----
-
 ## Estrutura do Fluxo
 
 ### Node 1: Webhook (Trigger)
