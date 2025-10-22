@@ -1,10 +1,8 @@
 # Fluxo n8n: Google Calendar
 
 ## Fluxo 
-
-```
 Webhook → Processar Tudo → Google Calendar → Responder Webhook
-```
+
 
 ---
 
