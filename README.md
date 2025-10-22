@@ -78,7 +78,7 @@ Codigo contido no arquivo logica.js
 
 ### Node 4: 
 **Tipo**: `If`
-```Caso o nó 3 (Criar Evento) retorne status de confirmado o fluxo continua o fluxo para um node de WebHook Response e retorna codigo 200, caso contrario, continua o fluxo para um node de WebHook Response e retorna codigo 400.```
+Caso o nó 3 (Criar Evento) retorne status de confirmado o fluxo continua o fluxo para um node de WebHook Response e retorna codigo 200, caso contrario, continua o fluxo para um node de WebHook Response e retorna codigo 400.
 
 ## Instalação
 
