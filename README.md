@@ -80,7 +80,6 @@ Caso o nó 3 (Criar Evento) retorne status de confirmado o fluxo continua o flux
 1.  **Clone o repositório:**
     ```bash
     git clone https://github.com/MateusLG/N8N-GoogleCalendar.git
-    cd MCP-Wikipedia
     ```
 
 2.  **Crie e ative o ambiente virtual (com UV):**
